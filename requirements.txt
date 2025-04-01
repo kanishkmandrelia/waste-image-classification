@@ -8,3 +8,4 @@ numpy
 glob2
 streamlit
 pillow
+gunicorn
