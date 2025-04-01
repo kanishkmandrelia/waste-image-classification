@@ -1,7 +1,5 @@
 # Waste Image Classification
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/kanishkmandrelia/Waste-Image-Classification)
-
 ## 📌 Project Overview
 
 The **Waste Image Classification** project aims to automate the classification of waste images into appropriate categories to promote efficient recycling and waste management. By leveraging deep learning (CNN) techniques, this project helps in sorting waste, which is crucial for environmental sustainability.
@@ -15,7 +13,6 @@ The web application is built using **Streamlit** for easy accessibility and depl
 - 🔍 Classifies waste images into relevant categories
 - 📊 User-friendly web interface built with Streamlit
 - ⚡ Fast and responsive predictions
-- 🌐 Deployed and accessible online
 
 ---
 
@@ -23,7 +20,7 @@ The web application is built using **Streamlit** for easy accessibility and depl
 
 - **Python** 🐍
 - **TensorFlow/Keras** for CNN model 🧠
-- **Streamlit** for web application deployment 🌐
+- **Streamlit** for web application 🌐
 - **Pandas & NumPy** for data manipulation 📈
 - **Matplotlib & Seaborn** for visualization 📊
 
@@ -40,7 +37,7 @@ The web application is built using **Streamlit** for easy accessibility and depl
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/kanishkmandrelia/waste-image-classification.git
-   cd Waste-Image-Classification
+   cd waste-image-classification
 
 2. **Create a virtual environment (optional but recommended):**
    ```bash
