@@ -1,6 +1,5 @@
 # Waste Image Classification
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://wasteimageclassification.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/kanishkmandrelia/Waste-Image-Classification)
 
 ## 📌 Project Overview
@@ -69,7 +68,6 @@ Waste-Image-Classification/
 ├── .gitignore                           # Git ignore file  
 ├── README.md                            # Project documentation  
 ├── app.py                               # Main Streamlit application  
-├── model_CNN.h5                         # Trained CNN model file  
 ├── requirements.txt                     # Dependencies  
 └── waste_classification_notebook.ipynb  # Jupyter notebook  
 ```
