@@ -40,7 +40,7 @@ The web application is built using **Streamlit** for easy accessibility and depl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kanishkmandrelia/Waste-Image-Classification.git
+   git clone https://github.com/kanishkmandrelia/waste-image-classification.git
    cd Waste-Image-Classification
 
 2. **Create a virtual environment (optional but recommended):**
