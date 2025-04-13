@@ -42,3 +42,11 @@ Waste-Image-Classification/
 ├── model_CNN.h5                         # Trained CNN model file  
 ├── requirements.txt                     # Dependencies  
 └── waste_classification_notebook.ipynb  # Jupyter notebook  
+```
+
+## 📬 Contact
+
+For inquiries, reach out via:
+
+- 💻 **GitHub**: [kanishkmandrelia](https://github.com/kanishkmandrelia)
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kanishk-mandrelia-048041287/)
