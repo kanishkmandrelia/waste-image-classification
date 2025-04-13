@@ -24,7 +24,7 @@
 ## 🔗 Links
 
 - 🧪 **Live App**: [Streamlit Waste Classifier](https://wasteimageclassification.streamlit.app/)
-- 💻 **GitHub Repo**: [Waste Image Classification](https://github.com/kanishkmandrelia/Waste-Image-Classification)
+- 💻 **GitHub Repo**: [Waste Image Classification](https://github.com/kanishkmandrelia/waste-image-classification)
 
 ---
 
