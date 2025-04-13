@@ -1,7 +1,7 @@
 # 🗑️ Waste Image Classification
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-ff4b4b?logo=streamlit&logoColor=white)](https://wasteimageclassification.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/kanishkmandrelia/Waste-Image-Classification)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/kanishkmandrelia/waste-image-classification)
 
 ---
 
